@@ -1,0 +1,23 @@
+{
+  "name": "elm-experience",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "elm": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/966647/elm-experience.git"
+  },
+  "author": "ilnaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/966647/elm-experience/issues"
+  },
+  "homepage": "https://github.com/966647/elm-experience#readme"
+}
